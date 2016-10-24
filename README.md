@@ -48,7 +48,7 @@ result <- run_analysis();
 ```
 result <- run_analysis(includeActivityLabels = T); 
 ```
-#### directory displacement in action.
+##### directory displacement in action.
 ```
 result <- run_analysis(rootFolder = "RELATIVE/PATH/TO/UCI HAR Dataset/"); 
 ```
