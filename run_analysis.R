@@ -52,3 +52,6 @@ run_analysis <- function(includeActivityLabels = FALSE,rootFolder = ""){
 ## result <- run_analysis(); ## simple call, works if you're in the same dir as data.
 ## result <- run_analysis(includeActivityLabels = T); ## dataset defined in Task + human readable labels for Actions.
 ## result <- run_analysis(rootFolder = "REPO/COURSERA/C_3/W_4/Data/UCI HAR Dataset/"); ## my env., directory displacement in action.
+
+##Actual task states: The output should be the tidy data set you submitted for part 1.
+run_analysis();
