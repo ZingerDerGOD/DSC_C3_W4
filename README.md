@@ -5,7 +5,7 @@ This repo is created to cover the needs of Coursera DataScience specialization, 
 - [**CODEBOOK.md**](https://github.com/ZingerDerGOD/DSC_C3_W4/blob/master/CODEBOOK.md): Definition of variables in a dataset, returned by run_analysis function.
 - [**run_analysis.R**](https://github.com/ZingerDerGOD/DSC_C3_W4/blob/master/run_analysis.R): Script that contains a solution to Peer-grated assignment of Week 4 Course 3.
 
-##[**run_analysis.R**](https://github.com/ZingerDerGOD/DSC_C3_W4/run_analysis.R)
+##[**run_analysis.R**](https://github.com/ZingerDerGOD/DSC_C3_W4/blob/master/run_analysis.R)
 ####General description
 
 File contains a single function called **"run_analysis"**.
@@ -53,9 +53,10 @@ result <- run_analysis(includeActivityLabels = T);
 result <- run_analysis(rootFolder = "RELATIVE/PATH/TO/UCI HAR Dataset/"); 
 ```
 
+##[**CODEBOOK.md**](https://github.com/ZingerDerGOD/DSC_C3_W4/blob/master/CODEBOOK.md)
 ####Outgoing data in general
 
-Please read [**CODEBOOK.md**](https://github.com/ZingerDerGOD/DSC_C3_W4/CODEBOOK.md) for details on data.
+Please read [**CODEBOOK.md**](https://github.com/ZingerDerGOD/DSC_C3_W4/blob/master/CODEBOOK.md) for details on data.
 
 ## Support
 
